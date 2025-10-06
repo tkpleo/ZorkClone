@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DB86CDBF-38E5-4AEC-AFF8-862C1D54CC1D}</ProjectGuid>
+    <ProjectGuid>{E0ECBDDF-2894-44C7-87D4-9989FADEB874}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Zork</RootNamespace>
     <AssemblyName>Zork</AssemblyName>

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Zork\\Zork\\",
+  "WorkspaceRootPath": "C:\\GitHubRepos\\ZorkClone\\Zork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB86CDBF-38E5-4AEC-AFF8-862C1D54CC1D}|Zork\\Zork.csproj|c:\\zork\\zork\\zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB86CDBF-38E5-4AEC-AFF8-862C1D54CC1D}|Zork\\Zork.csproj|solutionrelative:zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0ECBDDF-2894-44C7-87D4-9989FADEB874}|Zork\\Zork.csproj|c:\\githubrepos\\zorkclone\\zork\\zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0ECBDDF-2894-44C7-87D4-9989FADEB874}|Zork\\Zork.csproj|solutionrelative:zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Zork\\Zork\\Zork\\Program.cs",
+              "DocumentMoniker": "C:\\GitHubRepos\\ZorkClone\\Zork\\Zork\\Program.cs",
               "RelativeDocumentMoniker": "Zork\\Program.cs",
-              "ToolTip": "C:\\Zork\\Zork\\Zork\\Program.cs",
+              "ToolTip": "C:\\GitHubRepos\\ZorkClone\\Zork\\Zork\\Program.cs",
               "RelativeToolTip": "Zork\\Program.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAAAKUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwEUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T02:59:04.349Z",
+              "WhenOpened": "2025-10-06T21:40:44.816Z",
               "EditorCaption": ""
             }
           ]

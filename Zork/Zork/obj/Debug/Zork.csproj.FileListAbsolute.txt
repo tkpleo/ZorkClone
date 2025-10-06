@@ -1,0 +1,8 @@
+C:\GitHubRepos\ZorkClone\Zork\Zork\obj\Debug\Zork.csproj.AssemblyReference.cache
+C:\GitHubRepos\ZorkClone\Zork\Zork\obj\Debug\Zork.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ZorkClone\Zork\Zork\bin\Debug\Zork.exe.config
+C:\GitHubRepos\ZorkClone\Zork\Zork\bin\Debug\Zork.exe
+C:\GitHubRepos\ZorkClone\Zork\Zork\bin\Debug\Zork.pdb
+C:\GitHubRepos\ZorkClone\Zork\Zork\obj\Debug\Zork.exe
+C:\GitHubRepos\ZorkClone\Zork\Zork\obj\Debug\Zork.pdb
+C:\GitHubRepos\ZorkClone\Zork\Zork\obj\Debug\Zork.exe.config
